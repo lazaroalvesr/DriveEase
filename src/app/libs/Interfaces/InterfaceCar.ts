@@ -1,0 +1,29 @@
+export interface Car {
+  id: string;
+  linkBanner: string;
+  linkImg: string;
+  linkImg2: string;
+  name: string;
+  model: string;
+  City: string;
+  description: string;
+  Year: string;
+  kmRounds: string;
+  Cambio: string;
+  categoryName: string;
+  brandName: string;
+  Combustivel: string;
+  FinalDaPlaca: string;
+  cor: string;
+  Blindado: string;
+  AceitaTroca: string;
+  Garantia_De_Fabrica: string;
+  IPVA_PAGO: string;
+  Licenciado: string;
+  Price: string;
+  vehicleItems: string;
+  NomeDoVendedor: string;
+  Whatsapp: string;
+  categoryId: string;
+  brandId: string;
+}
